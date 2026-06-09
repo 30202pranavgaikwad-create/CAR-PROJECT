@@ -1,1 +1,1 @@
-# CAR-PROJECT
+Car Sales Collector is a web-based application designed to collect, manage, and analyze car sales information. The system allows users to add, update, search, and track vehicle sales records through an easy-to-use web interface.
